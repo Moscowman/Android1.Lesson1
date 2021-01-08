@@ -1,3 +1,17 @@
 <resources>
-    <string name="app_name">Android1Lesson1</string>
+    <string name="app_name">Android1.Lesson1</string>
+    <string name="text_view_text">This is TextView</string>
+    <string name="edit_text_hint">Enter text</string>
+    <string name="button_text">Click me, darling!</string>
+    <string name="switch_text">Switch me, honey! Please, switch me!!!</string>
+    <string name="check_box_text">Check and uncheck me all night long!</string>
+    <string name="toggle_button_text_off">please, darling, turn me on!</string>
+    <string name="toggle_button_text_on">Touch me gently, darling</string>
+    <string name="text_edit_text">Enter any text</string>
+    <string name="edit_text_person_name">Enter your name</string>
+    <string name="edit_text_phone_number">Enter your phone number</string>
+    <string name="edit_text_personal_number">Enter your personal number</string>
+    <string name="edit_text_password">Enter password</string>
+    <string name="edit_text_email">Enter e-mail</string>
+    <string name="edit_text_postal_address">Enter your postal address</string>
 </resources>
